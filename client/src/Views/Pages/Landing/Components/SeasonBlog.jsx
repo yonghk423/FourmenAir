@@ -66,6 +66,8 @@ padding: 20px 0;
 
 const MainPage = () => {
 	const [season, setTag] = useState('spring');
+	console.log(season);
+	console.log(DummyData);
 	const [filteredImages, setFilteredImages] = useState([]);
 	useEffect(() => {
 		const filterBox = DummyData.filter((ele) => {
@@ -101,6 +103,8 @@ const MainPage = () => {
 }
 
 const TagButton = ({ name, handleSetTag }) => {
+	console.log(name)
+	console.log(handleSetTag);
 	return (
 		<Tag onClick={() => handleSetTag(name)}>
 			<p>{name.toUpperCase()}</p>

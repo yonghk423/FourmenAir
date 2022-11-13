@@ -7,7 +7,6 @@ import PostPage from "./Views/Pages/Post/PostPage"
 import Footer from './Views/Menu/Footer';
 import DummyData from './Dummy/DummyData'
 
-
 function App() {
   const [mainDummy, setMainDummy] = useState([])
 
