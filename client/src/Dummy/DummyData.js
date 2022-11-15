@@ -6,7 +6,7 @@ const DummyData = [
   },
   {
     id: 1,
-    url: 'http://san.chosun.com/site/data/img_dir/2020/09/23/2020092302695_0.jpg',
+    url: 'https://post-phinf.pstatic.net/MjAyMTAyMTlfMTk3/MDAxNjEzNjkzNTA5NTMx.Y87Vib0Z0ELQgUwJXcCptkBhmwvGtt2U_zCiC475d2Qg.pmx8joXB8z3ZIqzrhpuvDokbbyhL1iJEy-11Y4UBfLEg.PNG/2%28%EB%A6%AC%EC%82%AC%EC%9D%B4%EC%A7%95%29.png?type=w1200',
     params: {
       postId: 'geonyeong',
     },
@@ -62,7 +62,7 @@ const DummyData = [
   },
   {
     id: 5,
-    url: 'https://cdn.newscj.com/news/photo/202007/newscj_%EC%B2%9C%EC%A7%80%EC%9D%BC%EB%B3%B4_761794_794639_2954.jpg',
+    url: 'https://t1.daumcdn.net/cfile/tistory/991FFB405D642B2806',
     params: {
       postId: 'geonyeong',
     },
@@ -104,7 +104,7 @@ const DummyData = [
   },
   {
     id: 8,
-    url: 'http://san.chosun.com/site/data/img_dir/2020/09/23/2020092302695_1.jpg',
+    url: 'https://blog.kakaocdn.net/dn/cbMEp1/btqI9ob0V0U/mM8U3PVB4Nr2kjXJh36ZU0/img.jpg',
     params: {
       postId: 'jeonghoon',
     },
@@ -259,7 +259,7 @@ const DummyData = [
   },
   {
     id: 19,
-    url: 'http://san.chosun.com/site/data/img_dir/2020/09/23/2020092302695_0.jpg',
+    url: 'https://allways.smotor.com/wp-content/uploads/2022/07/%ED%91%9C4-1024x576.jpg',
     params: {
       postId: 'yonghui',
     },
@@ -273,7 +273,7 @@ const DummyData = [
   },
   {
     id: 20,
-    url: 'http://san.chosun.com/site/data/img_dir/2020/09/23/2020092302695_1.jpg',
+    url: 'https://home.kepco.co.kr/kepco/front/html/WZ/2021_7_8/imgs/cont/sub0104_09.jpg',
     params: {
       postId: 'yonghui',
     },
@@ -287,7 +287,7 @@ const DummyData = [
   },
   {
     id: 21,
-    url: 'http://san.chosun.com/site/data/img_dir/2020/09/23/2020092302695_8.jpg',
+    url: 'https://t2.daumcdn.net/thumb/R720x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/1muT/image/EPhbPl6-D4gwm06rD_c0BjSNu0I.jpg',
     params: {
       postId: 'yonghui',
     },
