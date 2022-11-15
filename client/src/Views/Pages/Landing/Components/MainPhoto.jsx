@@ -22,8 +22,8 @@ const MainPhoto = styled.div`
     font-size: 30px;
     padding: 15px 30px;
     position: absolute;
-    top: 35%;
-    left: 29.5%;
+    top: 30%;
+    left: 25.5%;
     background-color: hsla(0, 0%, 100%, 0.35);
   }
 & * {
